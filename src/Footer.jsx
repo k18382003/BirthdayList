@@ -1,6 +1,12 @@
 
 export default function Footer() {
-    const PageLinks = [{ id: 1, href: '#home', text: 'home' }];
+    const PageLinks = [
+      {
+        id: 1,
+        href: 'https://react-components-demo.netlify.app/',
+        text: 'home',
+      },
+    ];
 
     const SocialIcons = [
     {
